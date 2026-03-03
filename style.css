@@ -5,12 +5,26 @@ h1{
 
 h2{ 
     font-family: American Typewriter, serif;
+    text-align: center;
 
 }
 
-.topofpage{    
+.goldBorder{    
     border: solid peru;
-    width: 255 px;
-    border-radius: 200 px;
+    width: 100 px;
+    border-radius: 20px 20px 20px 20px;
+    text-align: center;
 }
 
+body{
+    background-color: thistle;
+}
+
+p{
+    border radius: 0 100px 0 100px;
+    padding: 40px;
+    width: 150px;
+    background-color: honeyDew;
+    text-align: center;
+    font-family: American Typewriter, serif;
+}
