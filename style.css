@@ -9,7 +9,7 @@ h2{
 
 }
 
-.goldBorder{    
+.title{    
     border: solid peru;
     width: 100 px;
     border-radius: 20px 20px 20px 20px;
@@ -20,8 +20,9 @@ body{
     background-color: thistle;
 }
 
-p{
-    border radius: 0 100px 0 100px;
+.introBlurb{
+    border: solid;
+    border-radius: 0px 100px 0 100px;
     padding: 40px;
     width: 150px;
     background-color: honeyDew;
