@@ -1,4 +1,16 @@
 h1{ 
-    font-family: Arial, Helvetica, sans-serif; 
-    color: blue;
+    font-family: Luminari, fantasy; 
+    color: olive;
 }
+
+h2{ 
+    font-family: American Typewriter, serif;
+
+}
+
+.topofpage{    
+    border: solid peru;
+    width: 255 px;
+    border-radius: 200 px;
+}
+
